@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\1a6bbb90838843b8e302da4ae477e28e\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\96aacb74f8b6771d9b2a374e37d95e8c\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\87b35de2485c4a9a97b7446688fb63a7\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mokan\projects\flutter\countdown_alarm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BC78083C-7664-3802-8688-FA7F8FA41D99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

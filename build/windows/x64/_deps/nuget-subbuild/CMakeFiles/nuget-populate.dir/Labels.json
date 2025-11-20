@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/87b35de2485c4a9a97b7446688fb63a7/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/96aacb74f8b6771d9b2a374e37d95e8c/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

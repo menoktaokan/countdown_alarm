@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/87b35de2485c4a9a97b7446688fb63a7/nuget-populate.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/96aacb74f8b6771d9b2a374e37d95e8c/nuget-populate-complete.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-build.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-configure.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-copyfile.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-download.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-install.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-mkdir.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-patch.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-test.rule
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1a6bbb90838843b8e302da4ae477e28e/nuget-populate-update.rule

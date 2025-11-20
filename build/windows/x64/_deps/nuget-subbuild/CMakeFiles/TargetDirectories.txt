@@ -1,0 +1,3 @@
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

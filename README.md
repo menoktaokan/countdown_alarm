@@ -151,23 +151,13 @@ lib/
 
 - [ ] Bildirim desteği
 - [ ] Arka plan çalışması
-- [ ] Birden fazla alarm/geri sayım desteği
+- [ ] Birden fazla geri sayım desteği
 - [ ] Özel ses dosyaları
 - [ ] Tema özelleştirme
-- [ ] Dil desteği
 
 ## 📄 Lisans
 
 Bu proje özel bir projedir ve lisanslanmamıştır.
-
-## 👨‍💻 Geliştirici
-
-Bu proje Flutter ile geliştirilmiştir.
-
-## 🙏 Teşekkürler
-
-- Flutter ekibine harika bir framework sağladıkları için
-- Tüm açık kaynak paket geliştiricilerine
 
 ---
 

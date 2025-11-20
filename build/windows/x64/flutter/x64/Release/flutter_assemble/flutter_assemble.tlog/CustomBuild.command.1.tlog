@@ -1,0 +1,28 @@
+^C:\USERS\MOKAN\PROJECTS\FLUTTER\COUNTDOWN_ALARM\BUILD\WINDOWS\X64\CMAKEFILES\415766AA348E7D3842CF2CD9C3EAEFCA\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\mokan\flutter\flutter PROJECT_DIR=C:\Users\mokan\projects\flutter\countdown_alarm FLUTTER_ROOT=C:\Users\mokan\flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\mokan\projects\flutter\countdown_alarm\windows\flutter\ephemeral PROJECT_DIR=C:\Users\mokan\projects\flutter\countdown_alarm FLUTTER_TARGET=lib\main.dart DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzguMQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049YjQ1ZmExODk0Ng==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YjU5OTBlNWNjYw==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMC4w DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\Users\mokan\projects\flutter\countdown_alarm\.dart_tool\package_config.json C:/Users/mokan/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MOKAN\PROJECTS\FLUTTER\COUNTDOWN_ALARM\BUILD\WINDOWS\X64\CMAKEFILES\9473F182454EE7062F41A288A1592AE6\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MOKAN\PROJECTS\FLUTTER\COUNTDOWN_ALARM\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/mokan/projects/flutter/countdown_alarm/windows -BC:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64 --check-stamp-file C:/Users/mokan/projects/flutter/countdown_alarm/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
